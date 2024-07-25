@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 GHOST_API_URL = 'https://test-site-11.ghost.io/ghost/api/admin'
-GHOST_API_KEY = '66a14eb235a505000114c4cf:608144c97e6840c3337eaa7100fca4fe44b6ad22f6a70b94e1cd8a336a1efdc5'
+GHOST_API_KEY = 'your api key here'
 
 
 # Application definition
